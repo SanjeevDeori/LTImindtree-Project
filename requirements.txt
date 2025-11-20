@@ -1,0 +1,3 @@
+# Standard library only project
+# Tested with:
+# python>=3.8

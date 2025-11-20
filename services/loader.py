@@ -11,6 +11,9 @@ def load_students_from_csv(csv_path: Path) -> List[Student]:
     Returns a list of Student objects.
     """
     students: List[Student] = []
+    if csv_path.is_dir():
+        print(f"[loader] Given path is a directory, not a file: {csv_path}")
+        return students 
 
     if not csv_path.exists():
         print(f"[loader] CSV file not found: {csv_path}")

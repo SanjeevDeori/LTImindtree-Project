@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "Alice",
+        "assignment": 85.0,
+        "quiz": 90.0,
+        "exam": 88.0,
+        "final_score": 87.67,
+        "letter_grade": "B"
+    },
+    {
+        "id": "2",
+        "name": "Bob",
+        "assignment": 90.0,
+        "quiz": 65.0,
+        "exam": 99.0,
+        "final_score": 84.67,
+        "letter_grade": "B"
+    },
+    {
+        "id": "3",
+        "name": "Charlie",
+        "assignment": 92.0,
+        "quiz": 95.0,
+        "exam": 94.0,
+        "final_score": 93.67,
+        "letter_grade": "A"
+    },
+    {
+        "id": "4",
+        "name": "Diana",
+        "assignment": 60.0,
+        "quiz": 58.0,
+        "exam": 62.0,
+        "final_score": 60.0,
+        "letter_grade": "D"
+    },
+    {
+        "id": "5",
+        "name": "Edward",
+        "assignment": 99.0,
+        "quiz": 80.0,
+        "exam": 76.0,
+        "final_score": 85.0,
+        "letter_grade": "B"
+    }
+]
