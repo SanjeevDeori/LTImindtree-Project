@@ -2,7 +2,11 @@
 
 ## 📌 Project Description
 
+
+
 The **Student Grading System** is a modular, well-structured Python application designed to read student records from a CSV file, process their scores through customizable grading strategies, and generate insightful reports.
+
+This project was developed as part of the LTIMindtree training program, demonstrating practical application of Python programming concepts learned during the online session training.
 
 It follows **clean architecture principles** by separating models, services, and utilities, making the code easy to understand, extend, and maintain.
 
@@ -208,6 +212,16 @@ venv/
 Thumbs.db
 ```
 
+## 👤 Author
+
+**Sanjeev Deori**  
+GitHub: [@SanjeevDeori](https://github.com/SanjeevDeori)  
+Repository: [LTImindtree-Project](https://github.com/SanjeevDeori/LTImindtree-Project)
+
 ---
 
+## 🎓 Acknowledgments
 
+This project was developed as part of the **LTIMindtree Python Training Program**. Special thanks to the instructors for their guidance throughout the online session training course.
+
+---
